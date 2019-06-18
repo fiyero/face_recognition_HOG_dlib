@@ -20,3 +20,8 @@ By using the same bad quality webcam, this time the face recognizer can correctl
 ![23](https://cdn-images-1.medium.com/max/800/1*iXQ80Kw_7o8ts3eXwdlozQ.png)<br/>
 
 Actually I am very surprised it can distinguish James Franco and Ethan Hawke, provided that my webcam is so blurred. I am very satisfied about the accuracy of HOG, dlib and face_recognition. However the speed is not good enough therefore applying through webcam will be a bit lag.
+-------------------------------------------------------------------------------------------------------------------------------------
+### More about me
+[[:pencil:My Medium]](https://medium.com/@patrickhk)<br/>
+[[:house_with_garden:My Website]](https://www.fiyeroleung.com/)<br/>
+[[:space_invader:	My Github]](https://github.com/fiyero)<br/>
